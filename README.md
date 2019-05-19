@@ -10,7 +10,7 @@ LOL 3d models gallery based on [THREE.JS](https://threejs.org/).
 
 [http://lolking.net](https://www.fanbyte.com/features/league-of-legends-model-viewer/)
 
-### LOLLoader
+## LOLLoader
 
 refer [Issue #23](https://github.com/tengge1/ShadowEditor/issues/23)
 
