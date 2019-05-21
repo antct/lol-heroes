@@ -14,12 +14,6 @@ LOL 3d models gallery based on [THREE.JS](https://threejs.org/)
 
 ![](./snapshots/2.png)
 
-![](./snapshots/3.png)
-
-![](./snapshots/4.png)
-
-![](./snapshots/5.png)
-
 ![](./snapshots/6.png)
 
 ## Models
