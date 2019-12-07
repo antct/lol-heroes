@@ -21,6 +21,16 @@
 			z-index: 15000;
 		}
 
+		@keyframes rotate {
+			from {
+				transform: rotate(0deg);
+			}
+
+			to {
+				transform: rotate(360deg);
+			}
+		}
+
 		#loading img {
 			position: absolute;
 			top: 50%;
@@ -29,6 +39,10 @@
 			height: 150px;
 			margin-top: -75px;
 			margin-left: -75px;
+			animation-name: rotate;
+			animation-duration: 5.0s;
+			animation-iteration-count: infinite;
+			animation-timing-function: linear;
 		}
 	</style>
 </head>
