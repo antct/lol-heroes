@@ -2,7 +2,7 @@
 
 LOL 3d models gallery based on [THREE.JS](https://threejs.org/)
 
-[View on GitHub Page](https://96486d9b.github.io/lol-heroes)
+[View on GitHub Page](https://conv1d.github.io/lol-heroes)
 
 ## Motivation
 
