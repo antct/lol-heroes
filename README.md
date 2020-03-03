@@ -1,4 +1,4 @@
-# lol-heroes
+# LOL Heroes
 
 LOL 3d models gallery based on [THREE.JS](https://threejs.org/)
 
